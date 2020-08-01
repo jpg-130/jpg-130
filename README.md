@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Jigyasa 👋🏾👩🏾‍💻
 
 <!--
 **jpg-130/jpg-130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
